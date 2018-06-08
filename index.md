@@ -29,8 +29,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration,
 {% endcomment %}
 
 {% comment %}
-
-{% comment %}
   EVENTBRITE
 
   This block includes the Eventbrite registration widget if
