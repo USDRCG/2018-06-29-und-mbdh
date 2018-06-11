@@ -107,6 +107,11 @@ eventbrite:  46715948660     # optional: alphanumeric key for Eventbrite regist
   {{page.humandate}}.
   {% include workshop_calendar.html %}
 </p>
+
+<p>
+	The registration fee of $15 is being covered by the Midwest Big Data Hub.
+</p>
+
 {% endif %}
 
 {% comment %}
