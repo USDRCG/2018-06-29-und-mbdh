@@ -97,8 +97,7 @@ eventbrite:  46715948660     # optional: alphanumeric key for Eventbrite regist
 </p>
 <p id="parking">
   <strong>Parking:</strong>
-	Parking directly adjacent to the Health Sciences Center is for patients and physicians. <strong>Attendees should park in the <a href="https://www.google.com/maps/place/1516+W+22nd+St,+Sioux+Falls,+SD+57105/@43.5336648,-96.745309,404m/data=!3m2!1e3!4b1!4m5!3m4!1s0x878eb5f4a3d51b13:0x77fedda73b92e97b!8m2!3d43.5336648!4d-96.744214">parking ramp</a> west of the Health Sciences Center</strong>. Park only in unmarked spaces, not in valet or physician researved spaces. 
-  {
+	Parking directly adjacent to the Health Sciences Center is for patients and physicians. <strong>Attendees should park in the <a href="https://www.google.com/maps/place/1516+W+22nd+St,+Sioux+Falls,+SD+57105/@43.5336648,-96.745309,404m/data=!3m2!1e3!4b1!4m5!3m4!1s0x878eb5f4a3d51b13:0x77fedda73b92e97b!8m2!3d43.5336648!4d-96.744214">parking ramp</a> west of the Health Sciences Center</strong>. Do not park in valet or physician spaces.
 </p>
 {% endif %}
 
