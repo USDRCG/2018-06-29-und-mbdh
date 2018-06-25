@@ -88,6 +88,7 @@ eventbrite:  46715948660     # optional: alphanumeric key for Eventbrite regist
 {% if page.latlng %}
 <p id="where">
   <strong>Where:</strong>
+	<a href="https://www.usd.edu/medicine/our-locations/sioux-falls-campus">USD Sanford School of Medicine - Health Sciences Center</a>
   {{page.address}}.
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
