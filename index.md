@@ -257,8 +257,9 @@ once you leave the workshop.
 <p>
 <strong>Mac users</strong>
 <ul>
+	<li> A spreadsheet program such as Microsoft Excel or <a href="http://www.datacarpentry.org/organization-genomics/setup/">LibreOffice</a></li>
 	<li><a href="https://www.java.com/en/download/">Java</a></li> 
-	<li><a href="https://filezilla-project.org/download.php?show_all=1">Filezilla</a></li> 
+	<!-- <li><a href="https://filezilla-project.org/download.php?show_all=1">Filezilla</a></li>  -->
 	<li><a href="http://software.broadinstitute.org/software/igv/download">Integrative Genomics Viewer (IGV)</a></li> 
         <li><a href="https://www.rstudio.com/products/rstudio/download/#download"> RStudio</a></li>
 </ul>
@@ -267,8 +268,9 @@ once you leave the workshop.
 <strong>Windows users</strong>
 <ul>
 	<li><a href="http://www.putty.org/">Putty</a> Download putty.exe.</li>
+	<li> A spreadsheet program such as Microsoft Excel or <a href="http://www.datacarpentry.org/organization-genomics/setup/">LibreOffice</a></li>
 	<li><a href="https://www.java.com/en/download/">Java</a></li> 
-	<li><a href="https://filezilla-project.org/download.php?show_all=1">Filezilla</a></li> 
+	<!-- <li><a href="https://filezilla-project.org/download.php?show_all=1">Filezilla</a></li> -->
 	<li><a href="http://software.broadinstitute.org/software/igv/download">Integrative Genomics Viewer (IGV)</a></li> 
         <li><a href="https://www.rstudio.com/products/rstudio/download/#download"> RStudio </a></li>
 </ul>
