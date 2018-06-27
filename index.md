@@ -269,8 +269,8 @@ once you leave the workshop.
 <p>
 <strong>Windows users</strong>
 <ul>
-	<!-- <li>Install <a href="https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.70-installer.msi">PuTTY</a></li> -->
-	<li><a href="http://www.putty.org/">Putty</a> Download putty.exe.</li>
+	<li>Install <a href="https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.70-installer.msi">PuTTY</a></li>
+	<!-- <li><a href="http://www.putty.org/">Putty</a> Download putty.exe.</li> -->
 	<li> A spreadsheet program such as Microsoft Excel or <a href="http://www.datacarpentry.org/organization-genomics/setup/">LibreOffice</a></li>
 	<!-- <li><a href="https://filezilla-project.org/download.php?show_all=1">Filezilla</a></li> -->
 	<li><a href="https://www.java.com/en/download/">Java</a></li> 
